@@ -7,7 +7,7 @@
 * Data de conclusão do projeto : 29/07/2024  22:20h
 * Data de commit : 30/07/2024 13:20h
 
-[O que esse projeto possui?](#O-que-esse-projeto-possui) |
+[O que esse projeto apresenta?](#O-que-esse-projeto-apresenta) |
 [O que foi adiocionado ao projeto?](#O-que-foi-adiocionado-ao-projeto) |
 [Quais tecnologias foram usadas neste prjeto?](#Quais-tecnologias-foram-usadas-neste-prjeto) |
 
@@ -25,10 +25,10 @@
 
 ## O que foi adiocionado ao projeto? ##
 
-* Seletor de quantidade de usuários a aparecer
+* Seletor de quantidade de usuários a aparecer: <br/>
 Para facilitar o uso pensando na expêriencia do usuario, foi adicionado um botão que voce pode ajustar quantos usuários quer que apareça de 10 a 30 em ordem alfabética
 
-* Estados em ordem alfabética
+* Estados em ordem alfabética: <br/>
 Os estados também foram inseridos em ordem alfabética pensando na experiência do usuario.
 
 
