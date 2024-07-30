@@ -9,7 +9,7 @@
 
 [O que esse projeto possui?](#O-que-esse-projeto-possui) |
 [O que foi adiocionado ao projeto?](#O-que-foi-adiocionado-ao-projeto) |
-[O que foi usado neste prjeto?](#O-que-foi-usado-neste-prjeto) |
+[Quais tecnologias foram usadas neste prjeto?](#Quais-tecnologias-foram-usadas-neste-prjeto?) |
 
 
 
