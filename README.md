@@ -1,4 +1,12 @@
+<p float="left">
+
+ <img src="images/KingHost-logo.svg.png" width="200" />
+</p>
+
 # Olá Kinghoster, seja bem vindo a conclusão do desafio
+
+* Data de conclusão do projeto : 29/07/2024  22:20h
+* Data de commit : 30/07/2024 13:20h
 
 [O que esse projeto possui?](#O-que-esse-projeto-possui) |
 [O que foi adiocionado ao projeto?](#O-que-foi-adiocionado-ao-projeto) |
@@ -35,3 +43,4 @@ Os estados também foram inseridos em ordem alfabética pensando na experiência
 * Javascript
 * Python
 * Json
+* UX/UI desgin web responsivo 
