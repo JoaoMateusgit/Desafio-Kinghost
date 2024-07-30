@@ -43,17 +43,18 @@ Os estados também foram inseridos em ordem alfabética pensando na experiência
 
 ## Foto da tela inicial do site para demonstração: ##
 
-* Computador
+# Computador
 
- <img src="https://github.com/user-attachments/assets/d4971240-6cc1-41aa-a2e9-285b5dc09ff5" width="200" />
+<img src="https://github.com/user-attachments/assets/e989cb7d-9c80-4e1e-b082-8d1dcbddd648" alt="Tela incial site kinghost" width="220">
 
-* Celular
+# Celular
 
-<img src="https://github.com/user-attachments/assets/6a6a8446-534d-4efa-931e-cefdfcee29aa" width="200" />
- 
-* Ipad
+<img src="https://github.com/user-attachments/assets/8da80ebc-d2c1-4ad9-8222-8a0fe7520465" alt="desafio kinhhost celular" width="220">
 
-<img src="https://github.com/user-attachments/assets/c7b1e0c1-da35-44eb-8145-320ddd6d04bf" width="200" />
+# Ipad
+
+<img src="https://github.com/user-attachments/assets/06d3cc46-9aca-448b-a433-f574fe6e3b3a" alt="desafaio kinghost ipad" width="220">
+
 
 
 ## Contato ##
