@@ -42,4 +42,15 @@ Os estados também foram inseridos em ordem alfabética pensando na experiência
 * UX/UI desgin web responsivo
 
 ## Foto da tela inicial do site para demonstração: ##
+
+* Computador
+
  <img src="https://github.com/user-attachments/assets/d4971240-6cc1-41aa-a2e9-285b5dc09ff5" width="200" />
+
+* Celular
+
+<img src="https://github.com/user-attachments/assets/6a6a8446-534d-4efa-931e-cefdfcee29aa" width="200" />
+ 
+* Ipad
+
+<img src="https://github.com/user-attachments/assets/c7b1e0c1-da35-44eb-8145-320ddd6d04bf" width="200" />
