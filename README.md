@@ -1,6 +1,5 @@
 <p float="left">
-
- <img src="![KingHost-logo svg](https://github.com/user-attachments/assets/39ae2ba5-fec9-4e0a-b271-e4c32552f933)" width="200" />
+ <img src="https://github.com/user-attachments/assets/39ae2ba5-fec9-4e0a-b271-e4c32552f933" width="200" />
 </p>
 # Olá Kinghoster, seja bem vindo a conclusão do desafio
 
