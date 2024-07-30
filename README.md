@@ -9,7 +9,7 @@
 
 [O que esse projeto possui?](#O-que-esse-projeto-possui) |
 [O que foi adiocionado ao projeto?](#O-que-foi-adiocionado-ao-projeto) |
-[Quais tecnologias foram usadas neste prjeto?](#Quais-tecnologias-foram-usadas-neste-prjeto?) |
+[Quais tecnologias foram usadas neste prjeto?](#Quais-tecnologias-foram-usadas-neste-prjeto) |
 
 
 
@@ -30,9 +30,6 @@ Para facilitar o uso pensando na expêriencia do usuario, foi adicionado um bot�
 
 * Estados em ordem alfabética
 Os estados também foram inseridos em ordem alfabética pensando na experiência do usuario.
-
-
-
 
 
 
