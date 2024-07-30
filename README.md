@@ -16,7 +16,7 @@
 
 
 
-## O que esse projeto possui? ##
+## O que esse projeto apresenta? ##
 * O Projeto em sí é um site que dentro dele possui uma API com tabela de Name, Idade ,Username e Adress em ordem alfabética como proposto no desafio.
 
 
