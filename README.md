@@ -54,3 +54,10 @@ Os estados também foram inseridos em ordem alfabética pensando na experiência
 * Ipad
 
 <img src="https://github.com/user-attachments/assets/c7b1e0c1-da35-44eb-8145-320ddd6d04bf" width="200" />
+
+
+## Contato ##
+Seu feedback é importante para mim,caso queira me contatar segue meu Linkedin  <br/>
+```
+ www.linkedin.com/in/joaomateusperachi
+```
