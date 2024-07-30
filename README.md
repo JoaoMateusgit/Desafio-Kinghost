@@ -2,7 +2,7 @@
 
  <img src="images/KingHost-logo.svg.png" width="200" />
 </p>
-
+![KingHost-logo svg](https://github.com/user-attachments/assets/39ae2ba5-fec9-4e0a-b271-e4c32552f933)
 # Olá Kinghoster, seja bem vindo a conclusão do desafio
 
 * Data de conclusão do projeto : 29/07/2024  22:20h
