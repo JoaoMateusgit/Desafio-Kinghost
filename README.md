@@ -1,8 +1,8 @@
 # Olá Kinghoster, seja bem vindo a conclusão do desafio
 
-[O que esse projeto possui?](#O que esse projeto possui) |
-[O que foi adiocionado ao projeto?](#O que foi adiocionado ao projeto) |
-[O que foi usado neste prjeto?](#O que foi usado neste prjeto) |
+[O que esse projeto possui?](#O-que-esse-projeto-possui) |
+[O que foi adiocionado ao projeto?](#O-que-foi-adiocionado-ao-projeto) |
+[O que foi usado neste prjeto?](#O-que-foi-usado-neste-prjeto) |
 
 
 
